@@ -37,4 +37,7 @@ Use the Azure AI Vision SDK in Python to analyze an image and extract visual inf
 
 ## 🖼️ Sample Output
 ![objects](https://github.com/user-attachments/assets/0a52e445-4181-4923-a36c-114a69c4f461)
+![objects (1)](https://github.com/user-attachments/assets/01cbfedd-2d3b-417b-a6d8-4c952813e0ac)
+
+
 
